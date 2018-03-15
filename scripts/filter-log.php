@@ -3,7 +3,7 @@
 /**
  * Filters a log file, removing all lines matching given filter.
  *
- * Usage: jamp filter-log <filter rule regex> <log filename>
+ * Usage: jamp filter-log <log filename> <filter rule regex>
  *    jamp filter-log -d <log filename>
  *    jamp filter-log -r <log filename>
  *    jamp filter-log -s <log filename>
